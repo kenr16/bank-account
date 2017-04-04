@@ -1,0 +1,42 @@
+.register {
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 30px;
+  background-color: #99e6ff;
+  height: 325px;
+  margin-right: 8%;
+}
+
+.top {
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 30px;
+  background-color: #99e6ff;
+  height: 150px;
+  margin-bottom: 3%;
+}
+
+.transactions {
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 30px;
+  background-color: #99e6ff;
+  height: 325px;
+  /*margin-right: 10px;*/
+}
+
+.balance {
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-radius: 30px;
+  background-color: #99e6ff;
+  height: 250px;
+  margin-top: 10px;
+}
+
+.mouse{
+    position:absolute;
+    border: 1px solid red;
+    /*height:50px;
+    width:50px;*/
+}
